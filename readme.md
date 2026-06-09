@@ -1,2 +1,4 @@
 ## hello git!
 ⏱️ Adding a new feature
+⭐️ Adding something new
+Checking commit
